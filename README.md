@@ -1,5 +1,20 @@
 # DeepLense_SSL
 
+Directory Structure:-
+Root directory
+├── task1_models
+│	├── best.pth
+├── task2_models
+│	├── best_encoder.pth
+│	├── classifier_logreg.pkl
+├── common_task.ipynb
+├── preds_ct.csv
+├── README.md
+├── requirements.txt
+├── roc_auc_results_task1.csv
+└── specific_task6.ipynb
+
+
 For the replication of results obtained:-
  1. Clone this repository.
  2. Open the cloned directory.
