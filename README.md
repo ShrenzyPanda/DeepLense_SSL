@@ -68,7 +68,7 @@ Root directory
 ```
 ## Installation and Replication
 
-Clone this repository and run the following commands on the terminal:
+Ensure that you have GPU access and properly installed CUDA on your environment. Run the following commands on the terminal:
 
 ```bash
   git clone "https://github.com/ShrenzyPanda/DeepLense_SSL.git"
